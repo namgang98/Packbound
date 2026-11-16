@@ -47,7 +47,7 @@ public class TowerMapCutscene : MonoBehaviour
 
         GameSession session = GameSession.instance;
         kind = session.PlayingCutscene;
-        focus = session.CurrentTower;
+        focus = session.LastRunTower ?? session.CurrentTower;
 
         SetupSlots(session.Towers);
         StartCoroutine(PlayRoutine());
