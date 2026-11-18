@@ -123,4 +123,5 @@ Google Sheets ─(CSV)→ TextAsset ─→ CsvTable ─→ InfoParser ─→ Dat
 - DOTween (Demigiant)
 - 폰트: Galmuri9, Pirata One (SIL Open Font License)
 - 일러스트·스프라이트 일부: AI 이미지 생성 도구로 제작 후 편집
-- 효과음·BGM: 무료 사운드 리소스
+- BGM: AI 음악 생성 도구로 제작 (ElevenLabs)
+- 효과음: 무료 사운드 리소스
