@@ -110,6 +110,3 @@ InitTestScene*.unity*
 /[Aa]ssets/03.Asset/**
 !/[Aa]ssets/03.Asset/**/
 !/[Aa]ssets/03.Asset/**/*.meta
-/[Aa]ssets/Bandits - Pixel Art/**
-!/[Aa]ssets/Bandits - Pixel Art/**/
-!/[Aa]ssets/Bandits - Pixel Art/**/*.meta
